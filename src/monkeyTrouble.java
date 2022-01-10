@@ -10,3 +10,5 @@ public class monkeyTrouble {
         }
 
     }
+    //2 monkeys smiling trouble question.
+
