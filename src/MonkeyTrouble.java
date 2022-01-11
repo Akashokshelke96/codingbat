@@ -1,9 +1,9 @@
-public class monkeyTrouble {
+public class MonkeyTrouble {
     public static void main(String[] args) {
 
             boolean aSmile = true;
             boolean bSmile = true;
-            System.out.println(monkeyTrouble(aSmile, bSmile));
+            System.out.println(monkeyTrouble(true,true));
         }
         public static boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
             return ((aSmile && bSmile) || (!aSmile && !bSmile));
