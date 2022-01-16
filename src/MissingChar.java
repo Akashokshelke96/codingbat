@@ -1,4 +1,4 @@
-public class missingChar {
+public class MissingChar {
     public static void main(String[] args) {
         System.out.println(missingChar("hellows",7));
     }
@@ -8,3 +8,4 @@ public class missingChar {
             return front + back;
         }
     }
+    //missing char codingbat
