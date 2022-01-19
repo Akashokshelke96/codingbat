@@ -15,8 +15,8 @@ public class Main {
         thirty.setNext((fourty));
         fourty.setNext((fifty));
         fifty.setNext((null));
-        insertAtFront(head,5);
-        printLinkedlist(head);
+        insertAtFront(head,5); // method to insert items at front of the linked list;
+        printLinkedlist(head);//method to print the linked list
     }
 
     public static void printLinkedlist(Node head) {
