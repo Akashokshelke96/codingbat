@@ -13,7 +13,8 @@ public class Main {
         thirty.setNext((fourty));
         fourty.setNext((fifty));
         fifty.setNext((null));
-        System.out.println(fourty.getNext());
+
+        System.out.println(fourty.getData());
 
     }
 }
