@@ -10,6 +10,14 @@ public class LinkedList2 {
         ll.add(20);
         ll.add(39);
         ll.add(23);
+        ll.add(49);
+        ll.remove();
+        ll.addFirst(69);
+       // ll.removeLast();
+        ll.removeLastOccurrence(23);
+        ll.getFirst();
+
+
 
 
         for (Integer integer : ll) {
@@ -17,6 +25,7 @@ public class LinkedList2 {
         }
         System.out.println(ll.size());
         System.out.println(ll.contains(30));
+
 
     }
 }
