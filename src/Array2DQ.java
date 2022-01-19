@@ -7,7 +7,7 @@ public class Array2DQ {
 
         Scanner scanner = new Scanner(System.in);
         int[] myIntArray = getIntegers(5);
-        printArray(myIntArray);
+//        printArray(myIntArray);
         System.out.println("Average is " + getAverage(myIntArray));
     }
 
