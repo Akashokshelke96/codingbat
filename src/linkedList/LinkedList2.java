@@ -12,11 +12,11 @@ public class LinkedList2 {
         ll.add(23);
 
 
-        Iterator<Integer> it = ll.iterator();
-        while (it.hasNext()) {
-            System.out.println(it.next());
+        for (Integer integer : ll) {
+            System.out.println(integer);
         }
         System.out.println(ll.size());
+        System.out.println(ll.contains(30));
 
     }
 }
