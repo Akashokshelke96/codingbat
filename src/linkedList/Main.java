@@ -13,8 +13,19 @@ public class Main {
         thirty.setNext((fourty));
         fourty.setNext((fifty));
         fifty.setNext((null));
+        printLinkedlist(head);
+    }
 
-        System.out.println(fourty.getData());
+    public static void printLinkedlist(Node head) {
 
+        Node curr = head;
+        while (curr != null) {
+            System.out.println(curr.getData());
+            curr = curr.getNext();
+
+
+
+
+        }
     }
 }
