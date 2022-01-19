@@ -16,7 +16,7 @@ public class LinkedList2 {
        // ll.removeLast();
         ll.removeLastOccurrence(23);
         ll.getFirst();
-
+//learnt LinkedList
 
 
 
