@@ -26,3 +26,4 @@ public class Arrays2D_HR {
         System.out.println(maxSum);
     }
 }
+//learning arrays 2D questions from codingbat by akash shelke
