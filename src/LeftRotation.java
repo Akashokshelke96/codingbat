@@ -13,4 +13,5 @@ public class LeftRotation {
             }
         }
     }
+//learning nad solving questions from codingbat by akash shelke
 
