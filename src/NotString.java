@@ -22,3 +22,4 @@ public class NotString {
 //        return (talking && (hour < 7 || hour > 20));
 //    }
 //}
+//learning nad solving questions from codingbat by akash shelke
