@@ -8,3 +8,4 @@ public class ArraysSum {
         System.out.println("The sum is " + sum);
     }
 }
+//learning arrays 2D questions from codingbat by akash shelke
