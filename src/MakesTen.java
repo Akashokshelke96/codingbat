@@ -8,3 +8,4 @@ public class MakesTen {
 
     }
 }
+//learning nad solving questions from codingbat by akash shelke
