@@ -36,4 +36,4 @@ public class Array2DQ {
         return (double) sum / (double) intArray.length;
     }
 
-}
+}//learning arrays 2D questions from codingbat by akash shelke
