@@ -25,3 +25,4 @@ public class Arrays3Q {
                 System.out.println("Sorted string array : " + Arrays.toString(my_array2));
             }
         }
+//learning arrays 2D questions from codingbat by akash shelke
