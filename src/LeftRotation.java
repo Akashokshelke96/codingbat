@@ -11,7 +11,13 @@ public class LeftRotation {
             for(int i=0; i<n;i++) {
                 System.out.print(array[i] + " ");
             }
-        }
+
+        System.out.println(" +\"\"\"\"\"+ ");
+        System.out.println("[| o o |]");
+        System.out.println(" |  ^  | ");
+        System.out.println(" | '-' | ");
+        System.out.println(" +-----+ ");
     }
+}
 //learning nad solving questions from codingbat by akash shelke
 
