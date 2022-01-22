@@ -20,17 +20,17 @@ public class Main {
 
         printLinkedlist(head);//method to print the linked list
 
-        head = deleteAtFront(head);
-        printLinkedlist(head);
-
-        head = deleteAtFront(head);
-        printLinkedlist(head);
+//        head = deleteAtFront(head);
+//        printLinkedlist(head);
+//
+//        head = deleteAtFront(head);
+//        printLinkedlist(head);
+//    }
     }
-
     public static void printLinkedlist(Node head) {
         System.out.println("Printing the Linked List!!");
         Node curr = head;
-        while (curr.getNext() != null) {                                                //here using the .getnext we stopped the iteration just before the last element
+        while (curr != null && curr.getNext() != null) {                                                //here using the .getnext we stopped the iteration just before the last element
             System.out.println(curr.getData());              //adding another next .getNext we can similarly access 3rd last point
             curr = curr.getNext();
 
