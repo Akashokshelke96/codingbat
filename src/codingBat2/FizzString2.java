@@ -14,5 +14,5 @@ public class FizzString2 {
         return str;
 
 
-    }
+    }//solution by Akash Shelke
 }
