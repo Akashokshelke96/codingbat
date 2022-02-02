@@ -8,4 +8,4 @@ public class CigarParty {
         return ((cigars >= 40 && cigars <=60) && (isWeekend != true) ||
                 ((cigars >=40) && (isWeekend == true)));
     }
-}
+}////solution to cigarParty from codingbat by Akash Shelke
