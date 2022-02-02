@@ -20,6 +20,6 @@ public class FizzString {
         else {
             return n+"!";
         }
-    }//solution by Akash Shelke
+    }//solution to fizzString from codingbat by Akash Shelke
 
 }
