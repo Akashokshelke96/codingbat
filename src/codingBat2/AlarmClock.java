@@ -21,4 +21,4 @@ public class AlarmClock {
         }
         return "7:00";
     }
-}
+}//solution to alarmClock from codingbat by Akash Shelke
