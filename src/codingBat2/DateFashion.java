@@ -15,4 +15,4 @@ public class DateFashion {
         }
             return 0;
         }
-    }
+    }//solution to DateFashion from codingbat by Akash Shelke
