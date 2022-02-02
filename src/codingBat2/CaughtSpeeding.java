@@ -30,4 +30,4 @@ public class CaughtSpeeding {
     public static void main(String[] args) {
         System.out.println(caughtSpeeding(80,true));
     }
-}
+}//solution to caughtSpeeding from codingbat by Akash Shelke
