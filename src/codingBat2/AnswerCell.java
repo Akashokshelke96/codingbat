@@ -23,5 +23,5 @@ public class AnswerCell {
             return true;
         }
     }
-//solution by Akash Shelke
+//solution of AnswerCell  by codingbat by Akash Shelke
 }
