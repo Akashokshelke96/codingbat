@@ -13,4 +13,4 @@ public class BackStr {
     public static void main(String[] args) {
         System.out.println(frontBack("akash"));
     }
-}
+}//solution to BackStr from codingbat by Akash Shelke
