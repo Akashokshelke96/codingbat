@@ -11,5 +11,5 @@ public class SumDouble {
         }
         return sum;
 
-    }
+    }// basics adding two numbers through Java
 }
