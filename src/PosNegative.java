@@ -9,5 +9,6 @@ public class PosNegative {
         } else {
             return ((a < 0 && b > 0) || (a > 0 && b < 0));
         }
+        // it returns weather a number is positive , negative.
     }
 }
