@@ -17,5 +17,4 @@ public class Diff21 {
         }
     }
 }
-//learning nad solving questions from codingbat by akash shelke
-//cdi
+//learning and solving questions from codingbat by akash shelke
