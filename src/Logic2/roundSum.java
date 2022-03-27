@@ -14,5 +14,5 @@ public class roundSum {
         else{
             return num + ( 10 - (num%10));
         }
-    }//rounfSum question form coding bat by Akash shelke
+    }//roundSum question form coding bat by Akash shelke
 }
