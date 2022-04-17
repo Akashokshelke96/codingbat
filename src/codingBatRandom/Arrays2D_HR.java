@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class Arrays2D_HR {
     public static void main(String[] args) {
         int[][] arr = new int[6][6];
