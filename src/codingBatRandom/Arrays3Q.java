@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 import java.util.Arrays;
 public class Arrays3Q {
             public static void main(String[] args) {
