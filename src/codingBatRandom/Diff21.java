@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class Diff21 {
     public static void main(String[] args) {
         int n = 25;

@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class Fix23 {
     public static void main(String[] args) {
         int[] nums = {23,342,56,5};

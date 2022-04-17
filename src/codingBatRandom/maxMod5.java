@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class maxMod5 {
 
     public static void main(String[] args) {

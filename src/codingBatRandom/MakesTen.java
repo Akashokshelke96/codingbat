@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class MakesTen {
     public static void main(String[] args) {
         System.out.println(makes10(4,6));
