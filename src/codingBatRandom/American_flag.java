@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class American_flag {
 
 
