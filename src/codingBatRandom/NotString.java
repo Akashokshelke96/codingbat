@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class NotString {
     public static void main(String[] args) {
         System.out.println(notString("hello"));

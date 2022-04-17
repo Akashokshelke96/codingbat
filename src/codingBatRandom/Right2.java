@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class Right2 {
     public static void main(String[] args) {
         System.out.println(right2("yallo"));

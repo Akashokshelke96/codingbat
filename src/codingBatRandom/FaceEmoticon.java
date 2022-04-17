@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class FaceEmoticon {
     public static void main(String[] args)
     {

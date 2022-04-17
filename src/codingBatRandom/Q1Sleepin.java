@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class Q1Sleepin {
     public static void main(String[] args) {
         boolean weekd = true;

@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class NearHundred {
     public static void main(String[] args) {
         System.out.println(nearHundred(92));

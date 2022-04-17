@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class PosNegative {
     public static void main(String[] args) {
       //  System.out.println(posNeg(-12, -3, true));

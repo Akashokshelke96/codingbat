@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class ShareDigit {
     public static void main(String[] args) {
         System.out.println(shareDigit(2,34));

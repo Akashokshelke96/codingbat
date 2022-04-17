@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class MonkeyTrouble {
     public static void main(String[] args) {
 

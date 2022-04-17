@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 import java.util.Scanner;
 public class LeftRotation {
         public static void main(String[] args) {

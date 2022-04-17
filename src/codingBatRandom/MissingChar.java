@@ -1,3 +1,5 @@
+package codingBatRandom;
+
 public class MissingChar {
     public static void main(String[] args) {
         System.out.println(missingChar("hellows",7));
