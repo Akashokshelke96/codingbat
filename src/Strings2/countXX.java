@@ -1,4 +1,4 @@
-package Strings;
+package Strings2;
 
 public class countXX {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Strings;
+package Strings2;
 
 public class doubleX {
     public static void main(String[] args) {
