@@ -4,6 +4,7 @@ public class catDog {
     public static void main(String[] args) {
         System.out.println(catDog("catcatdog"));
         //Return true if the string "cat" and "dog" appear the same number of times in the given string.
+        //solution method below
     }
     public static boolean catDog(String str) {
         int cat = 0;
