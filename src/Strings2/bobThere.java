@@ -2,6 +2,7 @@ package Strings2;
 
 public class bobThere {
     public static void main(String[] args) {
+        //Return true if the given string contains a "bob" string, but where the middle 'o' char can be any char.
         System.out.println(bobThere("abcbeb"));
     }
     public static boolean bobThere(String str) {

@@ -2,6 +2,8 @@ package Strings2;
 
 public class xyzThere {
     public static void main(String[] args) {
+        //Return true if the given string contains an appearance of "xyz" where the xyz is not directly
+        // preceeded by a period (.). So "xxyz" counts but "x.xyz" does not.
         System.out.println(xyzThere("abc.xxy.yxyz"));
     }
     public  static boolean xyzThere(String str) {
