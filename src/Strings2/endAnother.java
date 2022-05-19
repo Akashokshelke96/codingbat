@@ -12,7 +12,6 @@ public class endAnother {
             a = b.toLowerCase();
             b = temp.toLowerCase();
         }
-
         return a.substring(a.length() - b.length()).equals(b);
     }
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!

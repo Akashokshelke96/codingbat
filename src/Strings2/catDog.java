@@ -13,12 +13,9 @@ public class catDog {
         for(int i = 0; i < str.length() - 2; i++) {
             if(str.substring(i, i + 3).equals("cat"))
                 cat++;
-
             if(str.substring(i, i + 3).equals("dog"))
                 dog++;
         }
-
         return cat == dog;
     }
-
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!

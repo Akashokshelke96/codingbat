@@ -14,8 +14,6 @@ public class xyzThere {
             if(str.charAt(i - 1) != '.' && str.substring(i, i + 3).equals("xyz"))
                 return true;
         }
-
         return false;
     }
-
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
