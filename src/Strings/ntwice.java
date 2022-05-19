@@ -11,4 +11,4 @@ public class ntwice {
         String word =   str.substring(0,n) + str.substring(str.length()-n,str.length());
         return word;
     }
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!

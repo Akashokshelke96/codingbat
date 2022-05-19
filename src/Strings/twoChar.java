@@ -16,4 +16,4 @@ public class twoChar {
             return str.substring(index, index + 2);
         }
     }
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
