@@ -22,4 +22,4 @@ public class loneSum {
         }
         return a + b +c ;
     }// loneSum question of codingBat by Akash Shelke
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!

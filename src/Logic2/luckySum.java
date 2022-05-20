@@ -20,3 +20,4 @@ public class luckySum {
         return a + b + c;
     }
 } //codingBat question of luckySum by Akash Shelke.
+//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
