@@ -13,4 +13,5 @@ public class commonEnd {
 
         return (a[0] == b[0] || a[a.length - 1] == b[b.length - 1]);
     }
+    //IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
 }
