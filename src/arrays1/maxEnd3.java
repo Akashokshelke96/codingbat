@@ -22,4 +22,4 @@ public class maxEnd3 {
  nums[2] = larger;
  return nums;
     }
-}
+}//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!

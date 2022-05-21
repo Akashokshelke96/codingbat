@@ -15,5 +15,5 @@ public class makeLast {
         arr2[arr2.length - 1] = nums[nums.length - 1];
         return arr2;
     }
-
+//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
     }
