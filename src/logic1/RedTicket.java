@@ -17,5 +17,6 @@ public class RedTicket {
 
         return 0;
     }
+//IF THIS HELPED PLEASE GIVE ME FOLLOW ON GITHUB, IT WILL REALLY MEANT A LOT..THANKS..HAPPY CODING!!
 
 }
