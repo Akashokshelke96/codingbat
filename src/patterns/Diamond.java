@@ -31,5 +31,5 @@ public class Diamond {
 
             System.out.println();
         }
-    }
+    }//Diamond pattern code , by Akash Shelke. If helpful, Do give me a followBack
 }
