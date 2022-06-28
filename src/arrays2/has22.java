@@ -6,7 +6,6 @@ public class has22 {
         System.out.println(has22(new int[] {1,2,3,4,2,2,4}));
     }
     public static boolean has22(int[] nums) {
-        boolean found;
 
         for(int i = 0 ; i<= nums.length-2 ; i++){
             if(nums[i] == 2 && nums[i+1] == 2){
