@@ -1,5 +1,6 @@
 public class arrayFront9 {
     public static void main(String[] args) {
+        //Given an array of ints, return true if one of the first 4 elements in the array is a 9. The array length may be less than 4.
         int [] arr = {1,2,3,4,5};
         System.out.println(arrayFront9(arr));
     }
